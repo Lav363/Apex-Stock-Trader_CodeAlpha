@@ -86,3 +86,14 @@ StockTradingPlatform/
 | Portfolio (Light Mode) | Transactions (Light Mode) |
 | :---: | :---: |
 | *[Portfolio Mockup]* | *[History Mockup]* |
+
+
+## Screenshots
+
+![Login](./Screenshots/login.png)
+
+![Dashboard](./Screenshots/dashboard.png)
+
+![Portfolio](./Screenshots/portfolio.png)
+
+![Transactions](./Screenshots/transactions.png)
