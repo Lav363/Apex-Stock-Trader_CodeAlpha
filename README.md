@@ -80,12 +80,11 @@ StockTradingPlatform/
 ## Screenshots
 
 *(Screenshots placeholder section)*
-## Screenshots
 
-| Login Screen | Dashboard |
-|--------------|-----------|
-| ![](screenshots/login.png) | ![](screenshots/dashboard.png) |
+| Login (Dark Mode) | Dashboard (Dark Mode) |
+| :---: | :---: |
+| *[Login Mockup]* | *[Dashboard Mockup]* |
 
-| Portfolio | Transactions |
-|-----------|-------------|
-| ![](screenshots/portfolio.png) | ![](screenshots/transactions.png) |
+| Portfolio (Light Mode) | Transactions (Light Mode) |
+| :---: | :---: |
+| *[Portfolio Mockup]* | *[History Mockup]* |
