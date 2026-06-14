@@ -90,10 +90,14 @@ StockTradingPlatform/
 
 ## Screenshots
 
-![Login](./Screenshots/login.png)
+### Login
+![Login](Screenshot/login.png)
 
-![Dashboard](./Screenshots/dashboard.png)
+### Dashboard
+![Dashboard](Screenshot/dashboard.png)
 
-![Portfolio](./Screenshots/portfolio.png)
+### Portfolio
+![Portfolio](Screenshot/portfolio.png)
 
-![Transactions](./Screenshots/transactions.png)
+### Transactions
+![Transactions](Screenshot/transactions.png)
