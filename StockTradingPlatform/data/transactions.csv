@@ -1,0 +1,5 @@
+username,type,symbol,quantity,price,dateTime
+Lavanya,BUY,AAPL,10,175.20,2026-06-14 13:42:22
+Lavanya,SELL,AAPL,5,183.69,2026-06-14 13:42:46
+Lavanya,BUY,NVDA,2,917.33,2026-06-14 13:46:26
+Lavanya,SELL,NVDA,1,964.61,2026-06-14 13:46:44

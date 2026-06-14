@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.stockplatform.Main",
+            "projectName": "StockTradingPlatform_c7ccfc31"
+        },
+        {
+            "type": "java",
+            "name": "Launch StockTradingPlatform",
+            "request": "launch",
+            "mainClass": "com.stockplatform.Main",
+            "projectName": "StockTradingPlatform",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
