@@ -83,7 +83,7 @@ StockTradingPlatform/
 
 | Login (Dark Mode) | Dashboard (Dark Mode) |
 | :---: | :---: |
-| *[Login Mockup]* | *[Dashboard Mockup]* |
+| (screenshots/login.png) | *[Dashboard Mockup]* |
 
 | Portfolio (Light Mode) | Transactions (Light Mode) |
 | :---: | :---: |
