@@ -79,8 +79,6 @@ StockTradingPlatform/
 
 ## Screenshots
 
-![](Screenshots/login.png)
-
 | Login (Dark Mode) | Dashboard (Dark Mode) |
 | :---: | :---: |
 | *[Login Mockup]* | *[Dashboard Mockup]* |
